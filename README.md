@@ -1,8 +1,5 @@
 ### Ola eu sou Pablo 👋
 
-
-### Olá, eu sou Pablo 👋
-
 <div align="center">
   <img
     height="180"
