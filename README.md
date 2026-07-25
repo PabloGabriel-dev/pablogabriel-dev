@@ -104,3 +104,21 @@ Confira meus repositórios para conhecer alguns dos projetos que estou desenvolv
 Desenvolvido por **Pablo Gabriel**
 
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PabloGabriel-dev/PabloGabriel-dev/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PabloGabriel-dev/PabloGabriel-dev/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="Animação da minhoca"
+    src="https://raw.githubusercontent.com/PabloGabriel-dev/PabloGabriel-dev/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<div>
