@@ -55,7 +55,7 @@ em experiências digitais simples, bonitas e eficientes.
 <img
   height="180"
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=PabloGabriel-dev&theme=shadow_red&hide_border=true&layout=compact"
-  alt="Linguagens mais utilizadas"
+  alt="pt-br"
 />
 
 </div>
